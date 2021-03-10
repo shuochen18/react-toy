@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+e_commerce/node_modules
+e_commerce/.pnp
+e_commerce/.pnp.js
+
+# testing
+e_commerce/coverage
+
+# production
+e_commerce/build
+
+# misc
+e_commerce/.DS_Store
+e_commerce/.env.local
+e_commerce/.env.development.local
+e_commerce/.env.test.local
+e_commerce/.env.production.local
+
+e_commerce/npm-debug.log*
+e_commerce/yarn-debug.log*
+e_commerce/yarn-error.log*
+
+# dependencies
+indexpage/node_modules
+indexpage/.pnp
+indexpage/.pnp.js
+
+# testing
+indexpage/coverage
+
+# production
+indexpage/build
+
+# misc
+indexpage/.DS_Store
+indexpage/.env.local
+indexpage/.env.development.local
+indexpage/.env.test.local
+indexpage/.env.production.local
+
+indexpage/npm-debug.log*
+indexpage/yarn-debug.log*
+indexpage/yarn-error.log*
